@@ -1,0 +1,83 @@
+{
+    "SPANISH": {
+        "general": {
+            "name": "José",
+            "surname": "Maldonado Correa",
+            "email": "jmaldonadoc1b@gmail.com",
+            "github": "@josemaldonadoc",
+            "linkedin": "@joselinis",
+            "city": "Granada, Spain",
+            "description": "Software Engineer, Cloud DevOps",
+            "shortname": "Jose"
+        },
+        "networks": [{
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/joselinis/",
+                "className": "fab fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/JoseMaldonadoC",
+                "className": "fab fa-github"
+            },
+            {
+                "name": "stackoverflow",
+                "url": "https://stackoverflow.com/users/22436626/joselinis",
+                "className": "fab fa-stack-overflow"
+            }
+        ],
+        "about": {
+            "description": "I am a computer engineer who loves nature, lifelong learning, physical activity and videogames."
+
+        },
+        "education": [{
+                "id": 0,
+                "concept": "Computer Science Degree - Grado en Ingeniería Informática",
+                "school": "Granada University - Universidad de Granada, Granada, Spain",
+                "years": "2017-201X",
+                "description": ""
+            }
+        
+        ],
+        "works": [
+            {
+                "id": 0,
+                "concept": "Software engineer internship in Cloud Team",
+                "school": "Wazuh",
+                "years": "July 2022 - January 2023",
+                "description": "Development of internal tools (python, bash) for cloud infrastructure maintenance (EC2 instances, load balancers, EBS, VPCs, Route53 S3, ApiGateway, Lambda) on AWS and kubernetes (EKS + kubectl + k8s python). \n Analyze, design and implement tasks automation and documentations of the Wazuh Cloud Servce. \nDesign and reimplementation of internal management APIs. \nDesigning new operational procedures to our internals tasks and data flows. \nMonitoring and tasks with Grafana, Promehetheus and Implementing alerting tasks with Lambda functions. \nRespond, resolve and scalete incidents.  \nElastic Stack operations (indice and clusters operations). \nOn-Call duties. \nManage users, groups, policies and roles for internal operations with IAM. \nRedesign and update Cloudformation stacks. \nMentoring and Onboarding of new team members. \nActively participate in the Wazuh Community. \nCollaborate with the entire Wazuh organization to solve issues related to orchestation and management tools and Cloud insights"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "80%"
+            },
+            {
+                "name": "Java",
+                "level": "90%"
+            },
+            {
+                "name": "Git",
+                "level": "90%"
+            },
+            {
+                "name": "NodeJS",
+                "level": "80%"
+            },
+            {
+                "name": "MongoDB",
+                "level": "60%"
+            },
+            {
+                "name": "MySQL",
+                "level": "70%"
+            }
+        ],
+        "projects": [
+            {
+            }
+    ]
+
+    }
+}
