@@ -122,8 +122,8 @@ class App extends React.Component {
             <br />
             <br />
 
-            {/* <a href={'assets/CV.pdf'} download="cv_jose.pdf"> */}
-            <a href={`${process.env.PUBLIC_URL}/assets/CV.pdf`} download="cv_joseac.pdf">
+            {}
+            <a href={`${process.env.PUBLIC_URL}/assets/cv_josemc.pdf`} download="cv_josemc.pdf">
               <button className="centering">Download CV PDF
 
               </button>
