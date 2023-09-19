@@ -11,6 +11,6 @@ P.D:  *There are many things to improve, if you want to give me a hand, I would 
 
 ### Demo
 
-[![DEMO](https://img.shields.io/badge/CV-Curriculum-yellow?style=flat&logo=DEMO&logoColor=white)](https://pepitoenpeligro.github.io/pepito-cv/)
+[![DEMO](https://img.shields.io/badge/CV-Curriculum-yellow?style=flat&logo=DEMO&logoColor=white)](https://josemaldonadoc.github.io/cv/)
 
 

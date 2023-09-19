@@ -162,7 +162,7 @@ class App extends React.Component {
         </div>
         {this.state.isShowingPDF && <div className="row">
           <Worker workerUrl="https://unpkg.com/pdfjs-dist@3.10.111/build/pdf.worker.min.js">
-            <Viewer fileUrl={`${process.env.PUBLIC_URL}/assets/CV.pdf`} />
+            <Viewer fileUrl={`${process.env.PUBLIC_URL}/assets/cv_josemc.pdf`} />
           </Worker>
 
 
