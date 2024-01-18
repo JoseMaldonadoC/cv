@@ -104,14 +104,6 @@ const cvStyle = StyleSheet.create({
     }
 
 
-
-
-
-
-
-
-
-
 });
 
 
